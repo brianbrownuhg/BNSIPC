@@ -1,0 +1,8 @@
+.stages{
+  outline-style: solid;
+  outline-color: black;
+  margin: 20px;
+  height: 150px;
+  text-align: center;
+  font-size: 18px;
+}
