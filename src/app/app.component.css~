@@ -1,5 +1,5 @@
 h1 {
-   color: #369;
+   color: #369
    font-family: Arial, Helvetica, sams-serif;
    font-size: 250%;
 }
